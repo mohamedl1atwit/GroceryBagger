@@ -1,0 +1,33 @@
+Item	Size	Weight	Firmness	Rigidity	Breakable	Perishable
+Maple Bacon (16 oz)	Medium	Medium	Firm	Flexible	False	True
+Tissues (160 count box)	Medium	Light	Hard	Rigid	False	False
+Salsa (16 oz jar)	Medium	Medium	Hard	Rigid	True	False
+Black Cherry Soda (2 liter bottle)	Large	Heavy	Firm	Rigid	False	False
+Dog Food (18# bag)	Extra Large	Very Heavy	Firm	Flexible	True	False
+Ice Cubes (bag)	Large	Heavy	Hard	Rigid	True	True
+Orange Juice (½ gallon bottle)	Large	Heavy	Firm	Rigid	False	False
+Beans (12 oz can)	Small	Heavy	Hard	Rigid	False	False
+Tissues (160 count box)	Medium	Light	Hard	Rigid	False	False
+Mustard (10 oz)	Medium	Medium	Firm	Rigid	False	False
+Beer (case)	Extra Large	Very Heavy	Hard	Rigid	False	False
+Hotdog Buns (8 pack)	Medium	Light	Soft	Flexible	False	True
+Light Bulbs (12 pack)	Medium	Light	Firm	Rigid	True	False
+Napkins (300 count)	Large	Light	Soft	Flexible	False	False
+Sliced Cheese (8 oz)	Small	Light	Firm	Rigid	False	True
+Ketchup (12 oz)	Medium	Medium	Firm	Rigid	False	False
+Salsa (16 oz jar)	Medium	Medium	Hard	Rigid	True	False
+Potato Chips (12 oz bag)	Large	Light	Firm	Flexible	True	False
+Sponges (2 pack)	Small	Light	Soft	Flexible	False	False
+Hotdog Buns (8 pack)	Medium	Light	Soft	Flexible	False	True
+Napkins (300 count)	Large	Light	Soft	Flexible	False	False
+Tortilla Chips (12 oz bag)	Large	Light	Firm	Flexible	True	False
+Pickle Relish (8 oz jar)	Small	Medium	Firm	Rigid	False	False
+Eggs (dozen)	Medium	Medium	Firm	Rigid	True	True
+Black Cherry Soda (2 liter bottle)	Large	Heavy	Firm	Rigid	False	False
+Beans (12 oz can)	Small	Heavy	Hard	Rigid	False	False
+Potato Chips (12 oz bag)	Large	Light	Firm	Flexible	True	False
+Beans (12 oz can)	Small	Heavy	Hard	Rigid	False	False
+Bread (loaf)	Medium	Light	Soft	Flexible	False	True
+Jumbo Hotdogs (6 pack)	Small	Light	Firm	Flexible	False	True
+Pickle Relish (8 oz jar)	Small	Medium	Firm	Rigid	False	False
+Jumbo Hotdogs (6 pack)	Small	Light	Firm	Flexible	False	True
